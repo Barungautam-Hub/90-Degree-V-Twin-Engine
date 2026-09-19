@@ -26,6 +26,10 @@ The project provided hands-on experience with **part modeling, assembly design, 
 
 ![Assembly View](Side-view.png)
 
+## Assembly Video
+
+[▶️ Watch the V-Twin Engine Assembly](v-engine-assembly.mp4)
+
 ---
 
 ## Main Components
