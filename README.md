@@ -16,7 +16,7 @@ The project provided hands-on experience with **part modeling, assembly design, 
 
 ### Isometric View
 
-![Isometric View](Isometric.view.png)
+![Isometric View](Isometric-view.png)
 
 ### Exploded View
 
